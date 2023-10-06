@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Pikachu",
+        "type": ["Electric"],
+        "height": "0.4 m",
+        "weight": "6.0 kg",
+        "description": "Pikachu is an Electric-type Pokémon known for its yellow color and lightning bolt-shaped tail."
+    },
+    {
+        "name": "Charizard",
+        "type": ["Fire", "Flying"],
+        "height": "1.7 m",
+        "weight": "90.5 kg",
+        "description": "Charizard is a Fire/Flying-type Pokémon and the final evolution of Charmander."
+    },
+    {
+        "name": "Squirtle",
+        "type": ["Water"],
+        "height": "0.5 m",
+        "weight": "9.0 kg",
+        "description": "Squirtle is a Water-type Pokémon known for its blue color and water-based attacks."
+    },
+    {
+        "name": "Bulbasaur",
+        "type": ["Grass", "Poison"],
+        "height": "0.7 m",
+        "weight": "6.9 kg",
+        "description": "Bulbasaur is a dual-type Grass/Poison Pokémon and is one of the original starters."
+    },
+    {
+        "name": "Eevee",
+        "type": ["Normal"],
+        "height": "0.3 m",
+        "weight": "6.5 kg",
+        "description": "Eevee is a Normal-type Pokémon known for its multiple evolution possibilities."
+    },
+    {
+        "name": "Jigglypuff",
+        "type": ["Normal", "Fairy"],
+        "height": "0.5 m",
+        "weight": "5.5 kg",
+        "description": "Jigglypuff is a Normal/Fairy-type Pokémon known for its singing and sleep-inducing abilities."
+    },
+    {
+        "name": "Gengar",
+        "type": ["Ghost", "Poison"],
+        "height": "1.5 m",
+        "weight": "40.5 kg",
+        "description": "Gengar is a dual-type Ghost/Poison Pokémon known for its mischievous nature."
+    },
+    {
+        "name": "Mewtwo",
+        "type": ["Psychic"],
+        "height": "2.0 m",
+        "weight": "122.0 kg",
+        "description": "Mewtwo is a Psychic-type Pokémon known for its immense psychic powers."
+    },
+    {
+        "name": "Snorlax",
+        "type": ["Normal"],
+        "height": "2.1 m",
+        "weight": "460.0 kg",
+        "description": "Snorlax is a large and sleepy Normal-type Pokémon known for blocking paths."
+    },
+    {
+        "name": "Machamp",
+        "type": ["Fighting"],
+        "height": "1.6 m",
+        "weight": "130.0 kg",
+        "description": "Machamp is a Fighting-type Pokémon known for its impressive muscles and strength."
+    },
+    {
+        "name": "Gyarados",
+        "type": ["Water", "Flying"],
+        "height": "6.5 m",
+        "weight": "235.0 kg",
+        "description": "Gyarados is a Water/Flying-type Pokémon known for its fierce and intimidating appearance."
+    },
+    {
+        "name": "Alakazam",
+        "type": ["Psychic"],
+        "height": "1.5 m",
+        "weight": "48.0 kg",
+        "description": "Alakazam is a Psychic-type Pokémon known for its high intelligence and psychic abilities."
+    },
+    {
+        "name": "Dragonite",
+        "type": ["Dragon", "Flying"],
+        "height": "2.2 m",
+        "weight": "210.0 kg",
+        "description": "Dragonite is a Dragon/Flying-type Pokémon known for its friendly and gentle nature."
+    },
+    {
+        "name": "Vaporeon",
+        "type": ["Water"],
+        "height": "1.0 m",
+        "weight": "29.0 kg",
+        "description": "Vaporeon is a Water-type Pokémon known for its aquatic abilities and water-based attacks."
+    },
+    {
+        "name": "Greninja",
+        "type": ["Water", "Dark"],
+        "height": "1.5 m",
+        "weight": "40.0 kg",
+        "description": "Greninja is a Water/Dark-type Pokémon known for its ninja-like appearance and swift movements."
+    }
+]
